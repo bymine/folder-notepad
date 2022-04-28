@@ -22,9 +22,8 @@ class SearchBox extends GetView<AppController> {
         child: Row(
           crossAxisAlignment: CrossAxisAlignment.center,
           children: [
-            const Icon(
-              Icons.search,
-            ),
+            Icon(Icons.search,
+                color: Theme.of(context).textTheme.bodySmall!.color),
             const SizedBox(
               width: 10,
             ),
