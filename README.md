@@ -1,16 +1,10 @@
-# memo_sqflite
+# Folder NotePad - 폴더형 메모장
+데스크탑의 폴더와 파일 구조와 유사하게 메모를 생성하고 관리할 수 있는 메모장 앱 입니다.폴
 
-A new Flutter project.
+## About Project
+플러터 Getx 상태관리 방식과 SQLite 데이터베이스를 사용하였습니다.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screen
+![홈](https://user-images.githubusercontent.com/71866185/165798932-21d64492-40de-48ef-8d94-9a657be9b914.jpg)
+![셍성2](https://user-images.githubusercontent.com/71866185/165799047-955ac7df-a067-4b2a-b077-f25c00c80765.jpg)
