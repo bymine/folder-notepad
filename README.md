@@ -5,6 +5,13 @@
 플러터 Getx 상태관리 방식과 SQLite 데이터베이스를 사용하였습니다.
 
 
+## Installation
+
+```sh
+git clone https://github.com/bymine/folder-notepad.git
+```
+
+
 ## Screen
 ![홈](https://user-images.githubusercontent.com/71866185/165798932-21d64492-40de-48ef-8d94-9a657be9b914.jpg)
 ![셍성2](https://user-images.githubusercontent.com/71866185/165799047-955ac7df-a067-4b2a-b077-f25c00c80765.jpg)
