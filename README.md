@@ -1,16 +1,9 @@
-# memo_sqflite
+# Folder NotePad - 폴더형 메모장
 
-A new Flutter project.
+About Code
+1. 플러터 상태관리 패턴중 Getx 방식과  SQLite 데이터베이스를 사용한 폴더형 메모장 앱
 
-## Getting Started
+About App
+1. GEtx 와 SQLite 사용법을 익히기 위해 만든 App
+2. 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
