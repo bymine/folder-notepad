@@ -11,7 +11,10 @@
 git clone https://github.com/bymine/folder-notepad.git
 ```
 
-
 ## Screen
-![홈](https://user-images.githubusercontent.com/71866185/165798932-21d64492-40de-48ef-8d94-9a657be9b914.jpg)
-![셍성2](https://user-images.githubusercontent.com/71866185/165799047-955ac7df-a067-4b2a-b077-f25c00c80765.jpg)
+
+<img src="https://user-images.githubusercontent.com/71866185/165805803-50c8d792-7a0a-4f99-8fd6-903f0a38f1a2.png" width="360" height="640" />
+<img src="https://user-images.githubusercontent.com/71866185/165805829-2bf76f1f-e28f-4a2a-816f-82d800050241.png" width="360" height="640" />
+<img src="https://user-images.githubusercontent.com/71866185/165805834-17547f6f-7e16-4086-8717-e6f53e70694c.png" width="360" height="640" />
+<img src="https://user-images.githubusercontent.com/71866185/165805841-24c685b7-d1ec-4634-9506-401a172766a6.png" width="360" height="640" />
+<img src="https://user-images.githubusercontent.com/71866185/165805847-1895a665-8ae7-4200-b820-d1c7268fcf14.png" width="360" height="640" />
